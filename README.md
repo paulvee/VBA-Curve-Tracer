@@ -1,4 +1,4 @@
-# Curve-Tracer
+# VBA Curve Tracer
 This is a repository to hold all files related to the VBA Curve Tracer project
 
 There are three different Blogs that I created for this project.
