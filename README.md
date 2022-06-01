@@ -11,4 +11,7 @@ http://www.paulvdiyblogs.net/2021/03/building-curve-tracer-v2.html
 The development of the VBA Curve Tracer (Version 3 in the series) can be found here:
 http://www.paulvdiyblogs.net/2021/03/building-curve-tracer-version-3.html
 
+Finally, I created a blog post with several measurments that were made with the VBA Curve Tracer.
+https://www.paulvdiyblogs.net/2021/11/making-meassurements-with-v3-curve.html
+
 Enjoy!
