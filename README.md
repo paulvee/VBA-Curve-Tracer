@@ -1,5 +1,5 @@
 # VBA Curve Tracer
-This is a repository to hold all files related to the VBA Curve Tracer project.
+This is a repository to hold all files related to the VBA Curve Tracer project. With this information you can build one yourself.
 Note that newer versions of files will overwrite the existing ones, there will be no version control. Look at the upload dates for more information.
 
 There are four different Blogs that I created for this project.
