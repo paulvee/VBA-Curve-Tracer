@@ -11,7 +11,7 @@ A few years later, a PCB layout has been developed using mostly SMD parts by Mar
 
 http://www.paulvdiyblogs.net/2021/03/building-curve-tracer-v2.html
 
-Some of the development process of the VBA Curve Tracer (Version 3) can be found here:
+Some of the development process of the VBA Curve Tracer (Version 3) with the help from Mark Allie and Bud Bennet can be found here:
 
 http://www.paulvdiyblogs.net/2021/03/building-curve-tracer-version-3.html
 
