@@ -1,4 +1,10 @@
 # VBA Curve Tracer
+
+*** Note ***
+We are in the process of updating the schematics and BOM's after we've made a few more minor last minute changes.
+Do not order the boards just yet.
+I'll let you know when we're done, hopefully before July 22nd.
+
 This is a repository to hold all files related to the VBA Curve Tracer project. With this information you can build one yourself.
 Note that newer versions of files will overwrite the existing ones, there will be no version control. Look at the upload dates for more information.
 
