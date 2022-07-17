@@ -1,11 +1,7 @@
 # VBA Curve Tracer
 
-*** Note ***
-We are in the process of updating the schematics and BOM's after we've made a few more minor last minute changes.
-Do not order the boards just yet.
-I'll let you know when we're done, hopefully before July 22nd.
-
-We are currently working on the additional files that PCBWAY needs to populate the boards with SMD parts. The required files will be added as soon as we have received and verified the boards.
+*** Note *** 
+We are in the process of updating the schematics and BOM's after we've made a few more minor last minute changes. Do not order the boards just yet. I'll let you know when we're done, hopefully before July 22nd. We are currently working on the additional files that PCBWAY needs to populate the boards with SMD parts. The required files will be added as soon as we have received and verified the boards.
 ----------------------------------------------------------------------------------------------------
 
 This is a repository to hold all files related to the VBA Curve Tracer project. With this information you can build one yourself.
