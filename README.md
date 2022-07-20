@@ -1,10 +1,13 @@
 # VBA Curve Tracer
 
-*** Note ***
 "Design is easy, production is hell"
-At this moment, we're finding out what this means. While going through the process of having PCBWAY produce the Main board, to test the process, we are finding several issues with our BOM due to part end-of-life, availability, prices and some hard to get resistor values. We're now in the process to fine tune the BOM together. Once we have the Main board in production, we'll start on the Front board.
-We are also in the process of updating the schematics and layouts after we've made a few minor last minute changes (some connection descriptions, some silkscreen movements and one added part). Do not order the boards just yet. I'll let you know when we're done. The required files needed for the production will be added as soon as we have received and verified the boards. Stay tuned.
-----------------------------------------------------------------------------------------------------
+
+At this moment, we're finding out what this means. While going through the process of having PCBWAY produce the Main board, to test the process, we are finding several issues with our BOM due to part end-of-life, availability, prices and some hard to get resistor values. We're now in the process of fine tuning the BOM together. Once we have the Main board in production, we'll start this process on the Front board. The production by PCBWAY will only be for SMD parts, so this requires special BOM's and Pick&Place files.
+We are also updating the schematics and layouts with these changes. Do not order the boards just yet. I'll let you know when we're done. The required production related files will be added here as soon as we have received and verified the boards. 
+Stay tuned.
+
+
+---------------------------------------------------------------------------------------------------
 
 This is a repository to hold all files related to the VBA Curve Tracer project. With this information you can build one yourself.
 Note that newer versions of files will overwrite the existing ones, there will be no version control. Look at the upload dates for more information.
