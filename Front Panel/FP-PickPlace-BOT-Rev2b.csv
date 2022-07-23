@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+D:\Circuits\Altium\CurveTracer\FrontPanel\Rev2\Project Outputs for FrontPanelRev2b\Pick Place for FrontPanelRev2b.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/07/22
+Time:       09:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"C4","BottomLayer","CAPC2012M","238.4000","150.2000","90"
+"R14","BottomLayer","RESC3216M","264.4000","147.7000","270"
+"R13","BottomLayer","RESC2012M","310.7121","153.0627","180"
+"R12","BottomLayer","RESC2012M","260.6000","147.7000","0"
+"R11","BottomLayer","RESC2012M","273.4000","150.1000","270"
+"R10","BottomLayer","RESC2012M","238.3789","143.6985","270"
+"R2","BottomLayer","RESC2012M","197.8000","125.0000","0"
+"R4","BottomLayer","RESC3216M","232.0789","139.7985","0"
+"R3","BottomLayer","RESC3216M","195.8000","153.0000","270"
+"R1","BottomLayer","RESC2012M","200.2000","147.6000","90"
+"Q4","BottomLayer","SOT23-3M","266.7000","153.2000","0"
+"Q3","BottomLayer","SOT23-3M","269.1000","150.1500","180"
+"Q2","BottomLayer","SOT23-3M","234.6423","143.7560","180"
+"Q1","BottomLayer","SOT23-3M","196.8000","147.6000","270"
+"P2","BottomLayer","NQ032","281.7000","150.2364","180"
+"P1","BottomLayer","NQ032","220.7000","150.5000","180"
+"D5","BottomLayer","SOD123","203.2000","152.8000","270"
+"D4","BottomLayer","LED-BOTTOM-ENTRY","257.0000","153.0000","180"
+"D3","BottomLayer","LED-BOTTOM-ENTRY","317.5000","153.0000","180"
+"D2","BottomLayer","LED-BOTTOM-ENTRY","206.5000","125.0000","0"
+"D1","BottomLayer","LED-BOTTOM-ENTRY","206.5000","108.5000","0"
+"C3","BottomLayer","CAPC2012M","255.3000","147.7000","180"
+"C1","BottomLayer","CAPC2012M","199.2000","151.4000","0"
