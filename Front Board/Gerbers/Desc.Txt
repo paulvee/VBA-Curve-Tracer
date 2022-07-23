@@ -1,0 +1,15 @@
+FrontBoardRev2b.TXT	NC Drill File
+FrontBoardRev2b.GTL	Gerber Top Copper Layer
+FrontBoardRev2b.GTO	Gerber Top Silk Screen Layer
+FrontBoardRev2b.GTS	Gerber Top SolderMask Layer
+FrontBoardRev2b.GTP	Gerber Top Pastre Layer
+FrontBoardRev2b.GBL	Gerber Bottom Copper Layer
+FrontBoardRev2b.GBS	Gerber Bottom SolderMask Layer
+FrontBoardRev2b.GBO	Gerber Bottom Silk Screen Layer
+FrontBoardRev2b.GBP	Gerber Bottom Pastre Layer
+Desc.TXT		This file.
+
+There is a 10mil line width board outline on each gerber layer.
+There is art work on the PCB. It looks like 2 birds facing.
+each other. It violates several rules. It doesn't matter if this
+turns out. It is not in the circuit.
