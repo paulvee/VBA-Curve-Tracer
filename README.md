@@ -1,9 +1,7 @@
 # VBA Curve Tracer
 
-"Design is easy, production is hell"
-
-At this moment, we're finding out what this means. While going through the process of having PCBWAY produce boards for 10 instruments, we have found several issues with our original BOM due to part end-of-life, part shortages, prices and some hard to get resistor values. We've now fine-tuned the BOM's and updated the schematics. The production by PCBWAY will only be for the SMD parts on the Main and Front boards, so this requires special BOM's and Pick&Place files. Due to the few parts on the Front Panel, the setup costs are too high so this will be done by ourselves.
-
+Mark has ordered the boards and parts to let his students build 10 complete Curve Trace instruments that will be tested and eventually used during classes in the University labs.
+The experiences of this process will be covered here and on the Blog.
 Stay tuned...
 
 
