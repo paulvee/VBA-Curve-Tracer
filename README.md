@@ -2,11 +2,9 @@
 
 "Design is easy, production is hell"
 
-At this moment, we're finding out what this means. While going through the process of having PCBWAY produce the Main board, to test the process, we are finding several issues with our BOM due to part end-of-life, availability, prices and some hard to get resistor values. We're now in the process of fine tuning the BOM together. Once we have the Main board in production, we'll start this process on the Front board. The production by PCBWAY will only be for SMD parts, so this requires special BOM's and Pick&Place files.
-We are also updating the schematics and layouts with these changes. Do not order the boards just yet. I'll let you know when we're done. 
+At this moment, we're finding out what this means. While going through the process of having PCBWAY produce boards for 10 instruments, we have found several issues with our original BOM due to part end-of-life, part shortages, prices and some hard to get resistor values. We've now fine-tuned the BOM's and updated the schematics. The production by PCBWAY will only be for the SMD parts on the Main and Front boards, so this requires special BOM's and Pick&Place files. Due to the few parts on the Front Panel, the setup costs are too high so this will be done by ourselves.
 
-The Main board files are now updated and the board is in production with SMD added. We're now finding that the main capacitor of 2200uF/250V is hard to get so we're going to add a 4-pin alternative to the layout.
-Stay tuned.
+Stay tuned...
 
 
 ---------------------------------------------------------------------------------------------------
