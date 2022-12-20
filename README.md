@@ -1,9 +1,8 @@
 # VBA Curve Tracer
 
-Mark has ordered the boards and parts to let his students build 10 complete Curve Trace instruments that will be tested and eventually used during classes in the University labs.
-The experiences of this process will be covered here and on the Blog.
-Stay tuned...
-
+Mark has ordered the boards with parts installed by the PCBWAY board house to let his students build 10 complete Curve Trace instruments that will be tested and eventually used during classes in the University labs.
+I have received the last revision of the Front panel and one of the Front boards from PCBWAY and used that to bring my unit up to the last revision. 
+My unit is now completed and finished.
 
 ---------------------------------------------------------------------------------------------------
 
