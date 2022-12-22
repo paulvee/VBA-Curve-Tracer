@@ -16,3 +16,5 @@ are supposed to be holes within the border of the PCB.
 There is art work on the PCB. It looks like 2 birds facing.
 each other. It violates several rules. It doesn't matter if this
 turns out. It is not in the circuit.
+
+Make sure you order the black color!!!
