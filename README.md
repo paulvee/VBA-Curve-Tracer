@@ -4,6 +4,9 @@ Mark has ordered the boards with parts installed by the PCBWAY board house to le
 I have received the last revision of the Front panel and one of the Front boards from PCBWAY and used that to bring my unit up to the last revision. 
 My unit is now completed and finished.
 
+Note:
+When you order boards, make sure you select the black color for the Face Plate and the Back plate, otherwise you will get the default color and that may be green.
+
 ---------------------------------------------------------------------------------------------------
 
 This is a repository to hold all files related to the VBA Curve Tracer project. With this information you can build one yourself.
