@@ -8,8 +8,12 @@ Note:
 When you order boards, make sure you select the black color for the Face Plate and the Back plate, otherwise you will get the default color and that may be green.
 
 IMPORTANT:
+Read the installation instructions for the Front board and the Main board carefully before installing parts.
+ 
 As some of you may know already, designing something is bliss, manufacturing is hell. Especially after some time because things have a habit of changing.
 Keep an eye out to newer revision numbers of the BOM's. I have added the partnumbers other users recommended because we either made a mistake in the ordernumber, or the part is no longer available. These alternatives are listed as suggestions. We cannot keep track of this ourselves but appreciate it if you can point out where there are partnumber issues so others can benefit.
+Maker Mert has spend a lot of time correcting BOM partnumber errors and installation instructions. Thank you mert!
+
 
 ---------------------------------------------------------------------------------------------------
 
