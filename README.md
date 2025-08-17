@@ -12,7 +12,7 @@ Keep an eye out to newer revision numbers of the BOM's. I have added the partnum
 
 Maker Matt Web and maker Cory Lytle have spend a lot of time correcting BOM partnumber errors and installation instructions. Thank you Matt & Cory!
 
-Based on a suggestion from Cory, we have made a small change to the silkscreen of the Front Panel to make the Y-amplifier gain setting more obvious. The is reflected in file FrontPanelRev2b-Display.png.
+Based on a suggestion from Cory, we have made a small change to the silkscreen of the Front Panel to make the Y-amplifier gain setting more obvious. This is reflected in file FrontPanelRev2b-Display.png.
 It replaces the original one, bit since it's only this small change, I left all the other information intact. When you use the Gerber information, it has the change.
 
 ---------------------------------------------------------------------------------------------------
